@@ -6,7 +6,7 @@ Usually, while training deep neural networks we often use the entire training da
 
 Our dataset split protocal files for LA and PA can be found in the respective LA and PA folders. Plesae read the readme file provided inside LA and PA for more details.
 
-## Zero-removal Scrips
+## Zero-removal Scripts
 
 We also release our silence removal scripts (both python and matlab) that we used in our work. This is based on a naive approach of counting a consecutive block of zeros as a silence. The scripts are provided inside the scripts folder.
 
