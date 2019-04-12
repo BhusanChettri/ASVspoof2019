@@ -2,7 +2,7 @@
 
 This repository contains materials related to our participation in the ASVspoof 2019 Automatic Speaker Verification Spoofing and Countermeasures Challenge. 
 
-Usually, while training deep neural networks we often use the entire training dataset or tend to add more data through data-augmentation). In our work, we propose dataset partitions where we discard lots of data points during training and validation from the original training and development sets. This ensures different attack types are present during training and validation and helps improve system robustness.
+Usually while training deep neural networks we use all the available training data or often tend to add more data points through augmentation techniques. In our work, we propose dataset partitions where we discard lots of data points during training and validation from the original training and development sets. This ensures different attack types are present during training and validation and helps improve system robustness.
 
 Our dataset split protocal files for LA and PA can be found in the respective LA and PA folders. Plesae read the readme file provided inside LA and PA for more details.
 
