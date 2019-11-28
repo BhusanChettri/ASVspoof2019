@@ -13,16 +13,3 @@ We also release our silence removal scripts (both python and matlab) that we use
 The details of our participation in the ASVspoof 2019 challenge and our post-evaluation intervention experiments on the PA tasks can be found in the following paper published in the Interspeech 2019 conference. Paper can be found below
 
 https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2505.html
-
-
-Please use the following citation
-
-@inproceedings{Chettri2019,
-  author={Bhusan Chettri and Daniel Stoller and Veronica Morfi and Marco A. Martínez Ramírez and Emmanouil Benetos and Bob L. Sturm},
-  title={{Ensemble Models for Spoofing Detection in Automatic Speaker Verification}},
-  year=2019,
-  booktitle={Proc. Interspeech 2019},
-  pages={1018--1022},
-  doi={10.21437/Interspeech.2019-2505},
-  url={http://dx.doi.org/10.21437/Interspeech.2019-2505}
-}
